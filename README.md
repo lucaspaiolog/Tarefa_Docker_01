@@ -16,7 +16,7 @@ Para verificar a instalação:
 
 Clone este repositório ou baixe os arquivos:
 
-- git clone https://github.com/seu-usuario/seu-repositorio.git
+- git clone https://github.com/lucaspaiolog/Tarefa_Docker_01.git
 - cd seu-repositorio
 
 Suba o container:
